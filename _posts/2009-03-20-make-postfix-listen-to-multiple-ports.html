@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: Make Postfix Listen to Multiple Ports
+date: '2009-03-20 00:00:28 -0400'
+date_gmt: '2009-03-20 04:00:28 -0400'
+categories:
+- Personal
+tags: []
+---
+<p>If you need postfix to listen on multiple ports (like I do) add lines like the following<br />
+(replace numbers with whatever ports you desire):</p>
+<p>In /etc/postfix/master.cf:</p>
+<pre><code>    25        inet  n       -       -       -       -       smtpd<br />
+    26        inet  n       -       -       -       -       smtpd<br />
+</code></pre></p>
+<p>Make sure to open the ports in iptables as well.</p>

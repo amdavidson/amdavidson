@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Andrew Davidson and you&#8217;ve reached my personal slice of the web. This site has been around in various forms since February of 2005 and allows me to post things to share with the world.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+You can also find me elsewhere on the web. Outside of this domain I occasionally save links at <a href="http://pinboard.in/u:amdavidson">Pinboard</a> and post 140 character musings at <a href="http://twitter.com/amdavidson">Twitter</a>
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can shoot me an email at <a href="mailto:hello@amdavidson.com">hello@amdavidson.com</a> to get ahold of me privately.
+
+
